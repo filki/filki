@@ -1,4 +1,4 @@
-# `Hello, world! 👋`
+# `Hi there 👋`
 
 I'm a Computer Science and Econometrics student currently working as a Service and Administration Intern at Volkswagen Poznan. My day-to-day work involves using the Power Platform to improve my department efficiency and SAP BW data warehouse. 🖥️
 
