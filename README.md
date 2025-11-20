@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/f5d143f5-7009-4e84-a6a2-897666aef9b2/thumbnail" >
+</p>
+
 # 👋 Hi there!
 
 I'm Filip, a Computer Science and Econometrics student currently interning at Volkswagen Poznan, where I optimize department efficiency using the Power Platform and provide insightful analysis using SAPBW/4HANA and Power BI. I am a practical and results-oriented individual, passionate about creating data-driven solutions that enhance both workflow and quality of people around me.
